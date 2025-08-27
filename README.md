@@ -1,4 +1,6 @@
 # C# Authentication HTTP Requests
+See repo csharp-cinema-challenge for JWT!!!
+
 
 ## Create a complete webapi using Jwt Authentication
 
